@@ -78,4 +78,4 @@ while True:
         eliminar(nombre)
 
     else:
-        print('Prograna terminado...')
+        print('Programa terminado...')
